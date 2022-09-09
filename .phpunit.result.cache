@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\CreateProduct::test_create_product_on_api_meli":3,"Tests\\TokenTest::test_user_login_with_store":4},"times":{"Tests\\CreateProduct::testItems":0.063,"Tests\\CreateProduct::test_create_product_on_api_meli":1.125,"Tests\\TokenTest::test_user_login_with_store":0.153}}
